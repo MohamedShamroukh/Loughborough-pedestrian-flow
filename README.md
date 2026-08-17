@@ -1,7 +1,7 @@
 # Loughborough Town GeoAI Pedestrian Flow Dynamics
 
 An interactive 2D WebGL visualization demonstrating predicted pedestrian footfall intensity and dynamic motion trajectories across Loughborough Town, UK.
-
+* **Direct Link:** [Launch Live 3D Pedestrian Dynamics Map](https://mohamedshamroukh.github.io/Loughborough-pedestrian-flow/)
 ---
 ### 🌐 Embed Interactive 3D Map in Web Articles / Journals
 
@@ -10,7 +10,8 @@ An interactive 2D WebGL visualization demonstrating predicted pedestrian footfal
   width="100%" 
   height="600px" 
   style="border: 1px solid #2a2a38; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.5);" 
-  allowfullscreen>
+  allow="fullscreen"
+  loading="lazy">
 </iframe>
 
 ### Dataset & Model Architecture
