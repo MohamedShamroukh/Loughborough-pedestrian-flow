@@ -3,7 +3,7 @@
 An interactive 2D WebGL visualization demonstrating predicted pedestrian footfall intensity and dynamic motion trajectories across Loughborough Town, UK.
 * **Direct Link:** [Launch Live 3D Pedestrian Dynamics Map](https://mohamedshamroukh.github.io/Loughborough-pedestrian-flow/)
 ---
-### 🌐 Embed Interactive 3D Map in Web Articles / Journals
+### 🌐 Embed Interactive Map
 
 ```html
 <iframe 
