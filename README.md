@@ -5,15 +5,16 @@ An interactive 2D WebGL visualization demonstrating predicted pedestrian footfal
 ---
 ### 🌐 Embed Interactive 3D Map in Web Articles / Journals
 
+```html
 <iframe 
-  src="[https://mohamedshamroukh.github.io/Loughborough-pedestrian-flow/](https://mohamedshamroukh.github.io/Loughborough-pedestrian-flow/)" 
+  src="https://mohamedshamroukh.github.io/Loughborough-pedestrian-flow/" 
   width="100%" 
   height="600px" 
   style="border: 1px solid #2a2a38; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.5);" 
   allow="fullscreen"
   loading="lazy">
 </iframe>
-
+```
 ### Dataset & Model Architecture
 This visualization is powered by GeoAI pedestrian flow predictions generated across a densified 10-meter road network grid in Loughborough Town.
 
